@@ -1,0 +1,3 @@
+{
+  "text": "LangChain is a framework designed to simplify the creation of applications using large language models (LLMs). It provides modular components for managing prompts, interfacing with models, chaining sequences of calls, adding memory, and enabling agents. FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.7+ based on standard Python type hints. Combining them allows developers to quickly deploy LLM-powered web services. Llama 3.1 is the latest iteration of Meta AI large language models, known for its improved performance and reasoning capabilities compared to its predecessors. Using Llama 3.1 via Ollama provides a way to run powerful models locally."
+}

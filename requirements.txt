@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+langchain>=0.1.0,<0.2.0  # Pinning major version for stability
+langchain-community>=0.0.30 # For Ollama integration
+langchain-text-splitters # For handling longer texts
